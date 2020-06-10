@@ -1,0 +1,23 @@
+{
+  "name": "dz-13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitrySergeev1982/dz-13.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitrySergeev1982/dz-13/issues"
+  },
+  "homepage": "https://github.com/DmitrySergeev1982/dz-13#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
