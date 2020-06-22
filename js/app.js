@@ -1,7 +1,7 @@
-import {Note} from './note'
+import {Note} from './note.js'
 
 
 
 const newNoteBtnNode = document.querySelector('#newNoteButton')
-// console.log(newNoteBtnNode)
+
 new Note(newNoteBtnNode)
